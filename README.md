@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m learning a bit html,css,js to setup https://alexofrhodes.github.io/ where I will blog about VBA and other topics.
+I’m learning a bit html, css, js to setup https://alexofrhodes.github.io/ where I will blog about VBA and other topics.
