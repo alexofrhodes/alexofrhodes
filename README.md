@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Alex.
 
 <!--
 **alexofrhodes/alexofrhodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +11,13 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+[Blog](https://alexofrhodes.github.io)
+| [Email](AnastasiouAlex@gmail.com) 
+| [YouTube](https://bit.ly/3aLZU9M)
+| [VK](https://vk.com/video/playlist/735281600_1)
+
