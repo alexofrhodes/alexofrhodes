@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Alex.
+Hi there 👋 I'm Alex.
 
 [Blog](https://alexofrhodes.github.io)
 | [Email](AnastasiouAlex@gmail.com) 
