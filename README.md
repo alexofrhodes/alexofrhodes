@@ -4,7 +4,7 @@ Hi there 👋 I'm Alex.
 ___ [BLOG](https://alexofrhodes.github.io)
 ___ [YouTube](https://bit.ly/3aLZU9M)
 
-I have changed the Structure, sorry for any inconvenience.  
+> I have changed the Structure, sorry for any inconvenience.  
 If you can't find something, have questions or suggestions please contact me.
 
 * VBA-Library ______ (Contains txt macros, classes and userforms following the blog)
