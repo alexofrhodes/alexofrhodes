@@ -31,5 +31,7 @@ Structure:
     * Worksheet navigator
     * File related
     * Addin manager
+  * Games
+    * Go-Baduk-WeiQi
 * VBA-Library ______ (Contains txt macros, classes and userforms following the blog)
 * AutoHotkey 
