@@ -4,9 +4,10 @@ Hi there 👋 I'm Alex.
 ___ [BLOG](https://alexofrhodes.github.io)
 ___ [YouTube](https://bit.ly/3aLZU9M)
 
-> I have changed the Structure, sorry for any inconvenience.  
-If you can't find something, have questions or suggestions please contact me.
+> If you can't find something, have questions or suggestions please contact me.
 
+<details closed><summary>Site structure:</summary> 
+   
 * VBA-Library ______ (Contains txt macros, classes and userforms following the blog)
 * VBA-Projects ______ (@ToDo: review and add to blog)  
   * Standalone  
@@ -36,3 +37,6 @@ If you can't find something, have questions or suggestions please contact me.
   * Games
     * Go-Baduk-WeiQi
 * AutoHotkey 
+
+</details>
+   
