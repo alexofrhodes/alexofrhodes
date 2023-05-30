@@ -8,8 +8,8 @@ ___ [YouTube](https://bit.ly/3aLZU9M)
 
 <details closed><summary>Site structure:</summary> 
    
-* VBA-Library ______ (Contains txt macros, classes and userforms following the blog)
-* VBA-Projects ______ (@ToDo: review and add to blog)  
+* VBA-Library ______ (Contains txt macros, classes and userforms)
+* VBA-Projects   
   * Standalone  
     * Code Printer
     * Commandbars Builder (multiple for worksheet and vbeditor)
@@ -18,7 +18,7 @@ ___ [YouTube](https://bit.ly/3aLZU9M)
     * oleVba Extract and Analyze Code
     * Multilanguage Presentations
     * Return Google search results
-  * Addins _____ (@ToDo: some need to be made into standalone)
+  * Addins
     * Data entry builder
     * Dev Tools (CodeModule formatting and more)
     * Finder
