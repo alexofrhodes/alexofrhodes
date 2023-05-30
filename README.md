@@ -20,6 +20,7 @@ ___ [YouTube](https://bit.ly/3aLZU9M)
     * Return Google search results
   * Addins _____ (@ToDo: some need to be made into standalone)
     * Data entry builder
+    * Dev Tools (CodeModule formatting and more)
     * Finder
     * Extract Userform properties, (re)Create from sheet data
     * Image related
@@ -37,6 +38,7 @@ ___ [YouTube](https://bit.ly/3aLZU9M)
   * Games
     * Go-Baduk-WeiQi
 * AutoHotkey 
-
+    * vbaGUI (run macros from vba project)
+    * Script Saver (webpage selected text to file)
 </details>
    
