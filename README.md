@@ -14,13 +14,13 @@ ___ [YouTube](https://bit.ly/3aLZU9M)
     * Code Printer
     * Commandbars Builder (multiple for worksheet and vbeditor)
     * Dynamic Ribbon Builder
-    * Multiview Calendar
     * oleVba Extract and Analyze Code
     * Multilanguage Presentations
     * Return Google search results
   * Addins
+    * Dev Tools (CodeModule formatting, Object extention Classes and more)
+    * Table Manager
     * Data entry builder
-    * Dev Tools (CodeModule formatting and more)
     * Finder
     * Extract Userform properties, (re)Create from sheet data
     * Image related
@@ -40,5 +40,6 @@ ___ [YouTube](https://bit.ly/3aLZU9M)
 * AutoHotkey 
     * vbaGUI (run macros from vba project)
     * Script Saver (webpage selected text to file)
+    * Typing Simulator
 </details>
    
