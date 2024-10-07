@@ -1,12 +1,11 @@
 Hi there 👋 I'm Alex.
 
-[eMail](AnastasiouAlex@gmail.com)  
-[BLOG](https://alexofrhodes.github.io)  - under construction  
-[YouTube](https://bit.ly/3aLZU9M)  
+[eMail](AnastasiouAlex@gmail.com)
+[BLOG](https://alexofrhodes.github.io)  - under construction
+[YouTube](https://bit.ly/3aLZU9M)
 
-This README was automatically generated with AHK-Git-Readme, an AutoHotkey tool i wrote.  
-You can find it at https://github.com/alexofrhodes/alexofrhodes  
-
+This README was automatically generated with an AutoHotkey tool i wrote.
+You can find it at https://github.com/alexofrhodes/alexofrhodes
 
 ## VBA
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-AHK-Notify)](https://github.com/alexofrhodes/VBA-AHK-Notify)
@@ -33,3 +32,10 @@ You can find it at https://github.com/alexofrhodes/alexofrhodes
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=AHK-Snipper)](https://github.com/alexofrhodes/AHK-Snipper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=AHK-VbaCallback)](https://github.com/alexofrhodes/AHK-VbaCallback)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=AHK-Workspaces)](https://github.com/alexofrhodes/AHK-Workspaces)
+
+## Unsorted
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=alexofrhodes)](https://github.com/alexofrhodes/alexofrhodes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=alexofrhodes.github.io)](https://github.com/alexofrhodes/alexofrhodes.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=AutoHotkey)](https://github.com/alexofrhodes/AutoHotkey)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=EXCEL-GAME-Go-Baduk-WeiQi)](https://github.com/alexofrhodes/EXCEL-GAME-Go-Baduk-WeiQi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=guide)](https://github.com/alexofrhodes/guide)

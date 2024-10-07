@@ -24,15 +24,16 @@ Settings:
 
     scriptParentFolder := RegExReplace(scriptFolder, "\\[^\\]*$")
     parentFolders := [scriptParentFolder]       ; <----
-    recursive := true                           ; <----
+    recursive := false                           ; <----
 
     Headers := ["VBA","AHK"]                    ; <----
+    CreateOtherCategory := true                 ; <----
     readmePath := A_ScriptDir "\README.md"      ; <----
 
     ; 1 = getReposFromFolders 
     ; 2 = GetReposFromGitHub
     chosenMethod := 2                           ; <----
-    outputToCSV := True                         ; <----
+    outputToCSV := false                         ; <----
 }
 
 Main:
@@ -44,7 +45,7 @@ Main:
     if outputToCSV
         CreateCSV() 
 
-    CreateReadme(headers)
+    CreateReadme(headers, CreateOtherCategory)
 }
 
 
@@ -101,7 +102,7 @@ CreateReadme(RepoBeginsAsHeader, createOtherHeader := false) {
             }
         }
         if otherOutput != "" {
-            output .= "`n## Other`n" otherOutput
+            output .= "`n## Unsorted`n" otherOutput
         }
     }
 
