@@ -12,8 +12,11 @@ You can find it at https://github.com/alexofrhodes/alexofrhodes
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-CodePrinter)](https://github.com/alexofrhodes/VBA-CodePrinter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Commandbars)](https://github.com/alexofrhodes/VBA-Commandbars)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Create-Folders-and-Files)](https://github.com/alexofrhodes/VBA-Create-Folders-and-Files)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-DatePicker)](https://github.com/alexofrhodes/VBA-DatePicker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Excel-GameGo-Baduk-WeiQi)](https://github.com/alexofrhodes/VBA-Excel-GameGo-Baduk-WeiQi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Game-Go-Baduk-WeiQi)](https://github.com/alexofrhodes/VBA-Game-Go-Baduk-WeiQi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Library)](https://github.com/alexofrhodes/VBA-Library)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-oletools-extract-analyze-code)](https://github.com/alexofrhodes/VBA-oletools-extract-analyze-code)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Outlook-Folders)](https://github.com/alexofrhodes/VBA-Outlook-Folders)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Projects)](https://github.com/alexofrhodes/VBA-Projects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Ribbons)](https://github.com/alexofrhodes/VBA-Ribbons)
@@ -35,7 +38,5 @@ You can find it at https://github.com/alexofrhodes/alexofrhodes
 
 ## Unsorted
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=alexofrhodes)](https://github.com/alexofrhodes/alexofrhodes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=alexofrhodes.github.io)](https://github.com/alexofrhodes/alexofrhodes.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=AutoHotkey)](https://github.com/alexofrhodes/AutoHotkey)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=EXCEL-GAME-Go-Baduk-WeiQi)](https://github.com/alexofrhodes/EXCEL-GAME-Go-Baduk-WeiQi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=guide)](https://github.com/alexofrhodes/guide)

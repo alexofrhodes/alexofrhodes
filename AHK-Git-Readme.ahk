@@ -34,6 +34,21 @@ Settings:
     ; 2 = GetReposFromGitHub
     chosenMethod := 2                           ; <----
     outputToCSV := false                         ; <----
+
+    prependText := 
+    (LTrim
+    "Hi there 👋 I'm Alex.
+
+    [eMail](AnastasiouAlex@gmail.com)  
+    [BLOG](https://alexofrhodes.github.io)  - under construction  
+    [YouTube](https://bit.ly/3aLZU9M)  
+
+    This README was automatically generated with an AutoHotkey tool i wrote.  
+    You can find it at https://github.com/alexofrhodes/alexofrhodes  
+    "
+    )
+
+    AppendText := ""
 }
 
 Main:
@@ -109,19 +124,9 @@ CreateReadme(RepoBeginsAsHeader, createOtherHeader := false) {
     ; Append output to README.md
     
     try FileDelete(readmePath)
-    pre := 
-    (LTrim
-    "Hi there 👋 I'm Alex.
 
-    [eMail](AnastasiouAlex@gmail.com)  
-    [BLOG](https://alexofrhodes.github.io)  - under construction  
-    [YouTube](https://bit.ly/3aLZU9M)  
 
-    This README was automatically generated with an AutoHotkey tool i wrote.  
-    You can find it at https://github.com/alexofrhodes/alexofrhodes  
-    "
-    )
-    output := pre . output
+    output := prependText . output . appendText
     try {
         FileAppend(output, readmePath)
         MsgBox "Formatted output appended to README.md"
