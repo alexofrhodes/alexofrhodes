@@ -16,7 +16,7 @@ You can find it at https://github.com/alexofrhodes/alexofrhodes
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Excel-GameGo-Baduk-WeiQi)](https://github.com/alexofrhodes/VBA-Excel-GameGo-Baduk-WeiQi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Game-Go-Baduk-WeiQi)](https://github.com/alexofrhodes/VBA-Game-Go-Baduk-WeiQi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Library)](https://github.com/alexofrhodes/VBA-Library)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-oletools-extract-analyze-code)](https://github.com/alexofrhodes/VBA-oletools-extract-analyze-code)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-olevba-extract-analyze-code)](https://github.com/alexofrhodes/VBA-olevba-extract-analyze-code)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Outlook-Folders)](https://github.com/alexofrhodes/VBA-Outlook-Folders)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Projects)](https://github.com/alexofrhodes/VBA-Projects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Ribbons)](https://github.com/alexofrhodes/VBA-Ribbons)
