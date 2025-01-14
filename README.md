@@ -1,10 +1,10 @@
 Hi there 👋 I'm Alex.
 
-[eMail](AnastasiouAlex@gmail.com)
-[BLOG](https://alexofrhodes.github.io)  - under construction
-[YouTube](https://bit.ly/3aLZU9M)
+[eMail](AnastasiouAlex@gmail.com)  
+[BLOG](https://alexofrhodes.github.io)  - under construction  
+[YouTube](https://bit.ly/3aLZU9M)  
 
-This README was automatically generated with an AutoHotkey tool i wrote.
+This README was automatically generated with an AutoHotkey tool i wrote.  
 You can find it at https://github.com/alexofrhodes/alexofrhodes
 
 ## VBA
