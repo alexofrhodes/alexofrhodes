@@ -1,11 +1,15 @@
 Hi there 👋 I'm Alex.
 
-[eMail](AnastasiouAlex@gmail.com)
-[BLOG](https://alexofrhodes.github.io)  - under construction
-[YouTube](https://bit.ly/3aLZU9M)
+- [Github](https://github.com/alexofrhodes/)
+- [Email](mailto:anastasioualex@gmail.com?subject=Hello&body=Hi!%20I%20would%20like%20to%20talk%20about%20...)
+- [BuyMeACoffee](https://www.buymeacoffee.com/AlexOfRhodes)
+- [WebSite](https://alexofrhodes.github.io/)
+- [YouTube](https://www.youtube.com/@alexofrhodes)
+- [LinkedIn](www.linkedin.com/in/alexofrhodes/)
+- [InstaGram](https://www.instagram.com/alexofrhodes/)
 
-This README was automatically generated with an AutoHotkey tool i wrote.
-You can find it at https://github.com/alexofrhodes/alexofrhodes
+This README was automatically generated with an AutoHotkey tool I wrote.
+You can find it at [GitHub](https://github.com/alexofrhodes/alexofrhodes)
 
 ## VBA
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-AHK-Notify)](https://github.com/alexofrhodes/VBA-AHK-Notify)
@@ -13,13 +17,13 @@ You can find it at https://github.com/alexofrhodes/alexofrhodes
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Commandbars)](https://github.com/alexofrhodes/VBA-Commandbars)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Create-Folders-and-Files)](https://github.com/alexofrhodes/VBA-Create-Folders-and-Files)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-DatePicker)](https://github.com/alexofrhodes/VBA-DatePicker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Excel-GameGo-Baduk-WeiQi)](https://github.com/alexofrhodes/VBA-Excel-GameGo-Baduk-WeiQi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Game-Go-Baduk-WeiQi)](https://github.com/alexofrhodes/VBA-Game-Go-Baduk-WeiQi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Library)](https://github.com/alexofrhodes/VBA-Library)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Modern-Userform)](https://github.com/alexofrhodes/VBA-Modern-Userform)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-olevba-extract-analyze-code)](https://github.com/alexofrhodes/VBA-olevba-extract-analyze-code)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Outlook-Folders)](https://github.com/alexofrhodes/VBA-Outlook-Folders)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Projects)](https://github.com/alexofrhodes/VBA-Projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Ribbons)](https://github.com/alexofrhodes/VBA-Ribbons)
 
 ## AHK
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=AHK-AutoPath)](https://github.com/alexofrhodes/AHK-AutoPath)
