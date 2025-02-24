@@ -1,5 +1,5 @@
 #Requires AutoHotkey v2
-#Include jsongo.v2.ahk
+#Include "lib\jsongo.v2.ahk"
 
 GlobalVariables:
 {
