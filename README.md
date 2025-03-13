@@ -12,6 +12,8 @@ This README was automatically generated with an AutoHotkey tool I wrote.
 You can find it at [GitHub](https://github.com/alexofrhodes/alexofrhodes)
 
 ## VBA
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Addin-ImmediateWindow)](https://github.com/alexofrhodes/VBA-Addin-ImmediateWindow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Addin-TableManager)](https://github.com/alexofrhodes/VBA-Addin-TableManager)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-AHK-Notify)](https://github.com/alexofrhodes/VBA-AHK-Notify)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-CodePrinter)](https://github.com/alexofrhodes/VBA-CodePrinter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Commandbars)](https://github.com/alexofrhodes/VBA-Commandbars)
@@ -20,10 +22,6 @@ You can find it at [GitHub](https://github.com/alexofrhodes/alexofrhodes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Game-Go-Baduk-WeiQi)](https://github.com/alexofrhodes/VBA-Game-Go-Baduk-WeiQi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Library)](https://github.com/alexofrhodes/VBA-Library)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Modern-Userform)](https://github.com/alexofrhodes/VBA-Modern-Userform)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-olevba-extract-analyze-code)](https://github.com/alexofrhodes/VBA-olevba-extract-analyze-code)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Outlook-Folders)](https://github.com/alexofrhodes/VBA-Outlook-Folders)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Projects)](https://github.com/alexofrhodes/VBA-Projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=VBA-Ribbons)](https://github.com/alexofrhodes/VBA-Ribbons)
 
 ## AHK
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=AHK-AutoPath)](https://github.com/alexofrhodes/AHK-AutoPath)
@@ -37,7 +35,9 @@ You can find it at [GitHub](https://github.com/alexofrhodes/alexofrhodes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=AHK-GuiStateManager)](https://github.com/alexofrhodes/AHK-GuiStateManager)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=AHK-Hotkeys-Remap)](https://github.com/alexofrhodes/AHK-Hotkeys-Remap)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=AHK-Ini-Editor)](https://github.com/alexofrhodes/AHK-Ini-Editor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=AHK-Snipper)](https://github.com/alexofrhodes/AHK-Snipper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=AHK-SiblingFolders)](https://github.com/alexofrhodes/AHK-SiblingFolders)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=AHK-Snippet-Manager)](https://github.com/alexofrhodes/AHK-Snippet-Manager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=AHK-UnzipToOwnFolder)](https://github.com/alexofrhodes/AHK-UnzipToOwnFolder)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=AHK-VbaCallback)](https://github.com/alexofrhodes/AHK-VbaCallback)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexofrhodes&repo=AHK-Workspaces)](https://github.com/alexofrhodes/AHK-Workspaces)
 
