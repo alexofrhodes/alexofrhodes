@@ -33,7 +33,7 @@ Settings:
     ; 1 = getReposFromFolders 
     ; 2 = GetReposFromGitHub
     chosenMethod := 2                           ; <----
-    outputToCSV := false                        ; <----
+    outputToCSV := 1                            ; <----
 
     prependText := 
     (LTrim
@@ -202,49 +202,50 @@ GetReposFromGitHub(usernames) {
         return
 
     for each, username in usernames {
-        whr := ComObject("WinHttp.WinHttpRequest.5.1")
-        Address := "https://api.github.com/users/" username "/repos"
-        whr.Open("GET", Address, true)
-        whr.Send()
-        whr.WaitForResponse()
+        page := 1
+        while true {
+            whr := ComObject("WinHttp.WinHttpRequest.5.1")
+            Address := "https://api.github.com/users/" username "/repos?page=" page "&per_page=100"
+            whr.Open("GET", Address, true)
+            whr.Send()
+            whr.WaitForResponse()
 
-        status := whr.status
-        if (status != 200) {
-            MsgBox "HttpRequest error for " username ", status: " status
-            continue
-        }
+            status := whr.status
+            if (status != 200) {
+                MsgBox "HttpRequest error for " username ", status: " status
+                break
+            }
 
-        JsonString := whr.ResponseText
-        JsonObject := JSONgo.Parse(JsonString)  ; Parse the JSON response
+            JsonString := whr.ResponseText
+            JsonObject := JSONgo.Parse(JsonString)  ; Parse the JSON response
 
-        if !IsObject(JsonObject) {
-            MsgBox "Parsing JSON for " username " failed."
-            continue
-        }
+            if !IsObject(JsonObject) || JsonObject.Length = 0
+                break  ; Exit the loop if no more repositories are returned
 
-        ; Extract the repository details and store in repoList
-        for index, repo in JsonObject {
-            repoName := repo["name"]
-            repoURL := repo["html_url"]
-            repoList.Push({username: username, repoName: repoName, repoURL: repoURL, repoFolder: ""})
+            ; Extract the repository details and store in repoList
+            for index, repo in JsonObject {
+                repoName := repo["name"]
+                repoURL := repo["html_url"]
+                repoList.Push({username: username, repoName: repoName, repoURL: repoURL, repoFolder: ""})
+            }
+
+            page++  ; Move to the next page
         }
     }
 
     return repoList
 }
 
-
 ; OPTIONAL --------------------------------------------------------------
 
 /**
  * (optional) save repo info to csv and show on gui
  */
-CreateCSV(*)
-{
+CreateCSV(*) {
     global
     csvRows := ["Username,Repo Name,Remote URL,Folder Path"]  ; CSV header
 
-    ; Create a myGui with ListView
+    ; Create a GUI with ListView
     myGui := Gui()
     myGui.SetFont("s10")
     
@@ -253,25 +254,30 @@ CreateCSV(*)
     myGui.Add("Button", , "Open Config").OnEvent("Click", OpenConfig)
     myGui.Add("Button", , "Open URL").OnEvent("Click", OpenURL)
     
-    LV := myGui.Add("ListView", "w600 r20", ["Username","Repo","URL","Folder"])
+    LV := myGui.Add("ListView", "w600 r20", ["Username", "Repo", "URL", "Folder"])
+    
     ; Add repository details to ListView and CSV rows
     for each, repo in repoList {
-        row := [repo.username, repo.repoName, repo.repoURL, repo.repoFolder]
-        LV.Add("", repo.username, repo.repoName, repo.repoURL, repo.repoFolder)
-        csvRows.Push(Join(row, ","))  ; Prepare CSV row
+        ; Handle missing folder paths for GitHub-only repos
+        folderPath := repo.repoFolder ? repo.repoFolder : "Not Cloned"
+        row := '"' repo.username '","' repo.repoName '","' repo.repoURL '","' folderPath '"'
+        LV.Add("", repo.username, repo.repoName, repo.repoURL, folderPath)
+        csvRows.Push(row)  ; Prepare CSV row
     }
-    lv.ModifyCol(1)
-    lv.ModifyCol(2)
-    lv.ModifyCol(3,50)
-    lv.ModifyCol(4,50)
     
-    ; Display the myGui
+    ; Adjust column widths
+    LV.ModifyCol(1)
+    LV.ModifyCol(2)
+    LV.ModifyCol(3, 50)
+    LV.ModifyCol(4, 50)
+    
+    ; Display the GUI
     myGui.Show()
     
     ; Save all CSV rows at once
     outputFile := A_ScriptDir "\repositories.csv"
     try FileDelete(outputFile)  ; Remove existing file
-    FileAppend(Join(csvRows, "n"), outputFile)  ; Write CSV rows
+    FileAppend(Join(csvRows, "`n"), outputFile)  ; Write CSV rows
     
     ; On selecting a row, update the global variables
     LV.OnEvent("ItemSelect", OnItemClick)
